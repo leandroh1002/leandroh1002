@@ -4,9 +4,7 @@
 - 🔭 ¿Quién soy? **Soy un Programador Fullstack orientado al diseño Front-end Desde muy pequeño me encanta la tecnología, recuerdo con nostalgia la primera PC que tuve y la cantidad que experimentos que hice por desconocimiento, a lo largo de los años me fui adentrando cada vez más en este mundo y comprendí el porqué de los fallos en mis pruebas...**
 
 - 🌱 ¿Qué hago? **Actualmente divido mi tiempo entre el trabajo, la búsqueda de un trabajo de desarrollador y terminar la Tecnicatura universitaria en Desarrollo y Calidad de Software.**
-
-- 👯 ¿Qué hago? **Actualmente divido mi tiempo entre el trabajo, la búsqueda de un trabajo de desarrollador y terminar la Tecnicatura universitaria en Desarrollo y Calidad de Software.**
-
+  
 - 💬 ¿A dónde me dirijo? **Mi objetivo principal es impactar el mundo con código 🎆 No solo disfruto de la programación por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.**
 
 
