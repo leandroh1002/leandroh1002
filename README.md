@@ -17,7 +17,7 @@
 </p>
 
 - 📫 No dudes en contactarme!
-- Linkedin
+- <a href=https://www.linkedin.com/in/leandroherrera1002/>Linkedin</a>
 - Correo: leandroherrera1002@gmail.com
 
 
